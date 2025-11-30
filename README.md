@@ -23,8 +23,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blu-cutter.git
-cd blu-cutter
+git clone https://github.com/your-username/blu_cutter.git
+cd blu_cutter
 ```
 
 ### 2. Install Dependencies from the `requirements.txt`
